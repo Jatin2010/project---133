@@ -1,0 +1,27 @@
+body{
+   background-color: gold;
+}
+.heading{
+    width: 100%;
+    font-size: larger;
+    margin-top: 0px;
+}
+.heading:hover{
+    font-size: large;
+}
+.link{
+    background-color: black;
+    border-radius: 10px;
+    width: 60px;
+    height: 30px;
+    float: right;
+    color: cyan;
+    margin-right: 20px;
+    text-align: center;
+    cursor: pointer;
+    
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px grey;
+}
